@@ -1,0 +1,9 @@
+// including all from getgo coz cba to be be specific and idc for small programmes
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+
+int main () {
+    return 0;
+}
